@@ -1,0 +1,1 @@
+"""Infraestructura: adaptadores y configuracion."""
