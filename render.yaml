@@ -17,7 +17,7 @@ services:
       - key: B2_APPLICATION_KEY
         sync: false
       - key: B2_BUCKET_NAME
-        value: certificados-lab-dev-2026
+        value: electiva-martin-jhonny-yefrey
       - key: B2_ENDPOINT_URL
         value: https://s3.us-east-005.backblazeb2.com
       - key: B2_REGION
